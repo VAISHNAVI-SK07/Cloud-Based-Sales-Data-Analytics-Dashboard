@@ -19,7 +19,7 @@ Data Storage: Processed and cleaned data is uploaded back to a designated S3 buc
 BI Layer (Power BI): Developed a dynamic dashboard featuring cross-filtering to analyze sales performance by country, product line, and order status.
 
 📊 Business Key Performance Indicators (KPIs)
-Total Revenue: $1.13 Million
+Total Revenue: $10.03 Million
 
 Top Market: USA (Leading by volume)
 
