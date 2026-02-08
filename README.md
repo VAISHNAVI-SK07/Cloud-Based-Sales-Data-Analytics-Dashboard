@@ -5,7 +5,7 @@
 AWS | Python | Power BI
 
 📌 Project Overview
-I developed an end-to-end data engineering pipeline to solve a common business challenge: Automating the journey from raw cloud storage to executive-level insights. This project handles the extraction, transformation, and visualization of global sales data ($1.13M+ in revenue) using a modern cloud-first approach.
+I developed an end-to-end data engineering pipeline to solve a common business challenge: Automating the journey from raw cloud storage to executive-level insights. This project handles the extraction, transformation, and visualization of global sales data ($10.03M+ in revenue) using a modern cloud-first approach.
 
 🏗️ Technical Architecture
 Data Source: Raw sales data stored in Amazon S3 (Mumbai Region: ap-south-1).
